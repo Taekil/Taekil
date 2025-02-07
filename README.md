@@ -56,6 +56,9 @@ Welcome to my GitHub! I'm a **M.S. Computer Science student at Seattle Universit
 - suggest solutions for Snohomish County
 
 ### **7. Code Smell Detector (in process) **
+- Code Smell Detection
+- Tokenization and AST(Abstact Syntax Tree)
+- **Semantic** Duplicated Code detection
 
 ---
 
@@ -68,8 +71,8 @@ Welcome to my GitHub! I'm a **M.S. Computer Science student at Seattle Universit
 
 ## 📫 Get in Touch
 - **Email:** [toh3@seattleu.edu](mailto:toh3@seattleu.edu) | [dadakil83@gmail.com](mailto:dadakil83@gmail.com)
-- **LinkedIn:** [linkedin.com/in/your-profile](#) *(Replace with your actual LinkedIn URL)*
-- **GitHub:** [github.com/your-username](#) *(Replace with your actual GitHub URL)*
+- **LinkedIn:** [https://www.linkedin.com/in/taekil-oh-657124117/](#)
+- **GitHub:** [https://github.com/Taekil](#)
 
 ---
 
