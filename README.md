@@ -55,7 +55,7 @@ Welcome to my GitHub! I'm a **M.S. Computer Science student at Seattle Universit
 ### **6. Capstone Project (in process) **
 - suggest solutions for Snohomish County
 
-### **7. Code Smell Detector (in process) **
+### **7. Code Smell Detector (Rust) **
 - Code Smell Detection
 - Tokenization and AST(Abstact Syntax Tree)
 - **Semantic** Duplicated Code detection
