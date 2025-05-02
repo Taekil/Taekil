@@ -24,8 +24,8 @@ Welcome to my GitHub! I'm a **M.S. Computer Science student at Seattle Universit
 - **Programming Languages:** C++, Java, Python, C#, SQL
 - **Full-Stack Development:** MERN Stack (MongoDB, Express.js, React.js, Node.js), ASP.NET Core MVC
 - **Machine Learning:** scikit-learn, BFS & DFS search algorithms
-- **Databases:** SQL, NoSQL
-- **Distributed Systems:** Chord DHT, Bellman-Ford Algorithm for arbitrage detection
+- **Databases:** MySQL, MongoDB
+- **Distributed Systems
 - **Other Tools:** ArcGIS, AutoDesk (Revit, Civil 3D)
 
 ---
