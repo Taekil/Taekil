@@ -69,7 +69,7 @@ Welcome to my GitHub! I'm a **M.S. Computer Science student at Seattle Universit
 ## 📫 Get in Touch
 - **Email:** [toh3@seattleu.edu](mailto:toh3@seattleu.edu) | [dadakil83@gmail.com](mailto:dadakil83@gmail.com)
 - **LinkedIn:** [https://www.linkedin.com/in/taekil-oh-657124117/](#)
-- **GitHub:** [https://github.com/Taekil](#)
+- **GitHub:** [https://github.com/Taekil](#) [https://github.com/TAEKIL-OH](#)
 
 ---
 
